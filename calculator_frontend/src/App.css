@@ -102,3 +102,5 @@
     font-size: 12px;
   }
 }
+
+@import './Calculator.css';
